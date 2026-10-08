@@ -1,0 +1,10 @@
+/* Fuente Roboto (la de Material Design) */
+@import "@fontsource/roboto/300.css";
+@import "@fontsource/roboto/400.css";
+@import "@fontsource/roboto/500.css";
+@import "@fontsource/roboto/700.css";
+
+/* Solo las partes de Bootstrap que usamos: reset, grilla y utilidades (mt-3, mb-3, text-center…) */
+@import "bootstrap/dist/css/bootstrap-reboot.min.css";
+@import "bootstrap/dist/css/bootstrap-grid.min.css";
+@import "bootstrap/dist/css/bootstrap-utilities.min.css";
